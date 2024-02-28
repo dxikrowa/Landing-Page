@@ -1,7 +1,25 @@
+.Box1,
+.Box2,
+.Box3,
+.Box4 {
+    height: 50px;
+    width: 50px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:#3882F6;
+    border-radius: 4px;
+
+}
 .TopPart {
     background-color: #1F2937;
 }
-
+.Placeholderimg {
+    color: white;
+    text-align: center;
+    background-color: gray;
+    height: 150px;
+    width: 500px;
+}
 .HeaderLogo {
     font-size: 24px;
     color: white;
@@ -19,4 +37,59 @@ a {
 .herosecondarytext {
     font-size: 18px;
     color: #e5e7eb;
+}
+.infoheader {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937
+}
+.button1 {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 6px;
+    border: 0px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.SecondBody {
+    background-color: #e5e7eb;
+}
+.QuoteText {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+.QuoteAuthor {
+    font-weight: bold;
+}
+.cta {
+    color: white;
+    font-weight: bold;
+}
+.Box5 {
+    height: 100px;
+    width: 750px;
+    border-style: solid;
+    background-color: #3882F6;
+
+}
+.button2 {
+    background-color: #3882F6;
+    color: white;
+    border-style: solid;
+    border-radius: 6px;
+    border: 100px;
+    border-width: 2px;
+}
+.signuptext {
+    color: gainsboro;
+}
+.Footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    height: 50px;
 }
